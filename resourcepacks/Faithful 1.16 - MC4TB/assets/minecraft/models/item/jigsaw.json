@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/jigsaw"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1}, "model": "item/quarry_parts/quarry_frame_staright" },
+        { "predicate": { "custom_model_data": 2}, "model": "item/quarry_parts/quarry_frame_corner" },
+        { "predicate": { "custom_model_data": 3}, "model": "item/quarry_parts/quarry_frame_t" },
+        { "predicate": { "custom_model_data": 4}, "model": "item/quarry_parts/quarry_laser" },
+        { "predicate": { "custom_model_data": 5}, "model": "item/quarry_parts/quarry_laser_rail" }
+    ]
+        
+}

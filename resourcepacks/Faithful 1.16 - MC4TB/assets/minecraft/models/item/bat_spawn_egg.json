@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/bat_spawn_egg"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1}, "model": "item/quarry_parts/quarry_builder" }
+    ]
+        
+}
