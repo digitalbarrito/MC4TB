@@ -11,8 +11,8 @@ Quick reference for changes made between pack versions
 [Take Root](https://www.planetminecraft.com/data-pack/take-root/)                                             | "Self Planting things! See Datapack page for details"                                                            | e1800                     |
 [Armored Elytra](https://www.planetminecraft.com/data-pack/armored-elytra/)                                   | "Combine a Chest plate with your Elytra! See Datapack page for details."                                         | NA                        |
 [Better Hopper](https://www.planetminecraft.com/data-pack/better-hopper-datapack/)                            | "Adds a way to make hoppers even better! See Datapack page for details."                                         | 1.16                      |
-[Cauldron Concrete](https://miroware.io/minecraft/datapacks/files/cauldron_concrete_2.zip)                    | "Drop concrete powder into a cauldron filled with water to instantly harden all of it."                          | NA
-[Vanilla Quarry](https://www.planetminecraft.com/data-pack/vanilla-quarry/)                                   | "Adds a buildable Quarry cause why not?! See Datapack page for details."                                         | NA
+[Cauldron Concrete](https://miroware.io/minecraft/datapacks/)                                                 | "Drop concrete powder into a cauldron filled with water to instantly harden all of it."                          | NA                        |
+[Vanilla Quarry](https://www.planetminecraft.com/data-pack/vanilla-quarry/)                                   | "Adds a buildable Quarry cause why not?! See Datapack page for details."                                         | NA                        |
 
 ## Changelog 5/9/21
 
