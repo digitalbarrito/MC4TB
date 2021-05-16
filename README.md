@@ -19,6 +19,7 @@ Copy `<mods>` folder to the `<game root>` directory (exp. `C:\Users\User\AppData
 [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/files)                                          | 4.0.1.0       | None                  | Client/Server
 [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/files)                                | 2.2.4         | SpawnerFix            | Client/Server
 [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files)          | 7.0.2         | Bookshelf             | Client/Server
+[Effortless Building](https://www.curseforge.com/minecraft/mc-mods/effortless-building/files)                    | 2.22          | None                  | Client/Server
 [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree/files)                                  | 2.11.1        | **Cloth Config API*   | Client/Server
 [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge/files)                                | 1605.2.3.B75  | *See Mod Page*        | Client/Server
 [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge/files)                        | 1604.1.0.13   | FTB Ranks             | Client/Server

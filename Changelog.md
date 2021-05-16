@@ -7,6 +7,7 @@ Quick reference for changes made between pack versions
 **Mod Changed**                                                                                               |     **Description**                                                                                              |       **Version**         |
 ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------- |
 [Better Hoppers](https://www.planetminecraft.com/data-pack/better-hopper-datapack/)                           | "Removed Better Hoppers, wasn't very good in practice, good on paper."                                           | REMOVED                   |
+[Effortless Building](https://www.curseforge.com/minecraft/mc-mods/effortless-building)                       | "Helps with building yo, see modpage for details!"                                                               | ADDED
 
 ## Changelog 5/15/21
 
