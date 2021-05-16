@@ -85,7 +85,6 @@ Copy `<mods>` folder to the `<game root>` directory (exp. `C:\Users\User\AppData
 [Villager Restocking](https://www.planetminecraft.com/data-pack/villager-restocking-v1-0/)                       | v1.0          | None                  | Server
 [Take Root](https://www.planetminecraft.com/data-pack/take-root/)                                                | e1800         | None                  | Server
 [Armored Elytra](https://www.planetminecraft.com/data-pack/armored-elytra/)                                      | NA            | None                  | Server
-[Better Hopper](https://www.planetminecraft.com/data-pack/better-hopper-datapack/)                               | 1.16          | None                  | Server
 [Cauldron Concrete](https://miroware.io/minecraft/datapacks/)                                                    | NA            | None                  | Server
 [Vanilla Quarry](https://www.planetminecraft.com/data-pack/vanilla-quarry/)                                      | NA            | None                  | Server
 

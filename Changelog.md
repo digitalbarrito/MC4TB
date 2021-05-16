@@ -2,6 +2,12 @@
 
 Quick reference for changes made between pack versions
 
+## Changelog 5/16/21
+
+**Mod Changed**                                                                                               |     **Description**                                                                                              |       **Version**         |
+------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------- |
+[Better Hoppers](https://www.planetminecraft.com/data-pack/better-hopper-datapack/)                           | "Removed Better Hoppers, wasn't very good in practice, good on paper."                                           | REMOVED                   |
+
 ## Changelog 5/15/21
 
 **Mod Changed**                                                                                               |     **Description**                                                                                              |       **Version**         |
