@@ -44,10 +44,12 @@ Copy `<mods>` folder to the `<game root>` directory (exp. `C:\Users\User\AppData
 [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files)                           | 1.8.6         | None                  | Client/Server
 [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files)                          | 7.2.1         | None                  | Client/Server
 [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer/files)                                  | 1.1           | None                  | Client/Server
+[Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez/files)                                                | 1.1.5         | None                  | Client/Server
 [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear/files)                                      | 1.0.2         | None                  | Client/Server
 [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft/files)                              | 1.8.21.1      | None                  | Client/Server
 [Simple Planes](https://www.curseforge.com/minecraft/mc-mods/simple-planes/files)                                | 4.1.2         | **Patchouli*          | Client/Server
 [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files)            | 2.4.0.259     | None                  | Client/Server
+[Speedy Hoppers](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers/files)                              | 1.16.4-1      | None                  | Client/Server
 [Tiny Mob Farm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm/files)                                | 1.1.1         | None                  | Client/Server
 [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt/files)                                        | 1.16.5        | None                  | Client/Server
 [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster/files)                                    | 2.3.7         | None                  | Client/Server

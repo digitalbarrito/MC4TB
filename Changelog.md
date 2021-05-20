@@ -2,6 +2,13 @@
 
 Quick reference for changes made between pack versions
 
+## Changelog 5/20/21
+
+**Mod Changed**                                                                                               |     **Description**                                                                                              |       **Version**         |
+------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------- |
+[Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)                                                   | "Adds Pipes baby, we pipin now gang. See Modpage for Details."                                                   | ADDED                     |
+[Speedy Hoppers](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)                                 | "Adds 3 tiers of Upgraded Hoppers with increasing transfer speeds"                                               | ADDED
+
 ## Changelog 5/16/21
 
 **Mod Changed**                                                                                               |     **Description**                                                                                              |       **Version**         |
